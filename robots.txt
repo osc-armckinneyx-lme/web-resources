@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://osc-armckinneyx-lme.github.io/web-resources/sitemap.xml
